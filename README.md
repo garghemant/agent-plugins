@@ -344,6 +344,14 @@ GitHub environment and AWS account configuration are documented in the [administ
 - [Claude Code plugins documentation](https://code.claude.com/docs/en/plugins)
 - [Cursor plugins documentation](https://cursor.com/docs/plugins)
 
+## Contributors
+
+Thank you to everyone who has contributed to this project!
+
+- [garghemant](https://github.com/garghemant)
+
+To learn how to contribute, see the [contributor guide](./CONTRIBUTING.md). See the full list of contributors on the [GitHub contributors page](https://github.com/garghemant/agent-plugins/graphs/contributors).
+
 ## License
 
 This project is licensed under the Apache-2.0 License.
